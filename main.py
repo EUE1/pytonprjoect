@@ -1,7 +1,8 @@
 meme_sozlugu = {
     "CRINGE": "Garip ya da utandırıcı bir şey",
     "LOL": "Komik bir şeye verilen cevap",
-    "ROFL": "ROFL bir şakaya karşılıktır, LOL gibidir"
+    "ROFL": "ROFL bir şakaya karşılıktır, LOL gibidir",
+    "XD" : "Şakaya gülmek"
 }
 
 tekrar_sayisi = int(input("İşlemi kaç kez tekrarlamak istersiniz? (5, 10, 15 seçin): "))
